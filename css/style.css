@@ -1,0 +1,19 @@
+
+
+img {
+  width: 250px;
+  height: 200px;
+}
+
+.latent {
+  display: none;
+}
+
+body {
+  background-color: silver;
+}
+#isbody {
+  position: relative;
+  left: 200px;
+  top: 100px;
+}
